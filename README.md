@@ -1,6 +1,6 @@
 # 🎵 Music App — Project in Progress
 
-### 🚧 Currently in Planning & Early Development
+### 🚧 Currently in Planning & Early Development Phase
 
 I'm working on a new **Android music application** inspired by the best parts of modern music platforms — with a focus on creating a clean, practical, and enjoyable music experience.
 
