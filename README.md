@@ -13,121 +13,119 @@
               |___/                               
 ```
 
-**Next-Generation Personal Audio System & Collaborative Sound Engine**
+**Zero Ads. Zero Limits. Uncompromised Sound & Real-Time Collaborative Flow.**
 
-[![Kotlin](https://img.shields.io/badge/Kotlin-2.0-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
-[![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-Material_3-4285F4?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/jetpack/compose)
-[![Media3](https://img.shields.io/badge/ExoPlayer-Media3-FF0055?style=for-the-badge&logo=google&logoColor=white)](https://developer.android.com/guide/topics/media/media3)
-[![Android Auto](https://img.shields.io/badge/Automotive-Android_Auto_Ready-00C853?style=for-the-badge&logo=android-auto&logoColor=white)](https://android.com/auto)
-[![Audio](https://img.shields.io/badge/Studio_Visuals-1200x1200_HD-FFB300?style=for-the-badge)](#)
+[![Status](https://img.shields.io/badge/Status-Active_Beta_Testing-blueviolet?style=for-the-badge)](#-get-the-beta--share-your-review)
+[![Audio](https://img.shields.io/badge/Audio-100%25_Ad--Free-00C853?style=for-the-badge)](#)
+[![Downloads](https://img.shields.io/badge/Downloads-Instant_Offline-00E5FF?style=for-the-badge)](#)
+[![Automotive](https://img.shields.io/badge/Cockpit-Android_Auto_Ready-FF9100?style=for-the-badge)](#)
+[![Visuals](https://img.shields.io/badge/Studio_Artwork-1200x1200_HD-FF3D00?style=for-the-badge)](#)
 
 <br/>
 
-> *"Music isn’t just playback. It’s an intuition."*
+> *"Tired of apps treating music like a commercial break? We built SkyWave to bring back pure, uninterrupted listening."*
 
 </div>
 
 ---
 
-## 🔮 What is SkyWave?
+## 💥 Why Choose SkyWave? (Tired of The Usual Nonsense?)
 
-SkyWave isn't another generic music player. It is a carefully engineered **sound atmosphere** built to bridge pure aesthetic beauty, intuitive social listening, and uncompromising performance.
+If you listen to music every single day, you already know the frustration:
+* 😤 **Loud, jarring ads** cutting in right as the beat is about to drop.
+* 🔒 **Skip penalties & paywalls** telling you how many tracks you're allowed to skip per hour.
+* 📉 **Restricted offline access** that locks your music behind monthly subscriptions.
+* 🐌 **Bloated, sluggish apps** packed with podcasts and promotions you never asked for.
 
-From effortless **two-mind playlist blending** to an **integrated cockpit Android Auto system**, SkyWave anticipates what you want to hear next without you ever touching a dial.
+**SkyWave flips the script completely.**  
+No paywalls. No interruptions. No restrictions. Just pure, instant sonic freedom. It only takes one session to realize why **it's 100% worth a shot**.
 
 ---
 
-## ✨ Features That Set SkyWave Apart
+## 🎁 What You Get with SkyWave
 
 ```mermaid
-graph LR
-    A[Sound Atmosphere] --> B(Smart Autoplay Engine)
-    A --> C(SkyWave Blends)
-    A --> D(Automotive Cockpit)
-    A --> E(1200x1200 Visual Canvas)
-    A --> F(3x3 Speed Dial)
+graph TD
+    A[SkyWave Experience] --> B(100% Ad-Free Audio)
+    A --> C(One-Tap True Offline Downloads)
+    A --> D(SkyWave Blends: Instant Social Sync)
+    A --> E(Automotive In-Car Cockpit)
+    A --> F(1200x1200 Studio Clarity Covers)
+    A --> G(Autonomous Smart Taste Autoplay)
 ```
 
-### ⚡ 1. The Autonomous Flow Engine
-* **Intuitive Taste Follow-Up**: Pick a single song, lock your screen, and let SkyWave's continuous curation take over. The engine analyzes sonic textures, tempo, and mood to queue up the next perfect track seamlessly.
-* **Intelligent Background Prefetching**: Eliminates waiting and buffering. The player pre-resolves upcoming streams in the background so track skips are instant.
-* **Full Up-Next Freedom**: Drag, reorder, draw up, or clear upcoming tracks with smooth gesture controls.
+### 🚫 1. 100% Ad-Free & Limitless Skips
+Zero commercials. Zero banner interruptions. Skip as many tracks as you want, scrub anywhere, anytime.
 
-### 🎨 2. Ultra-HD Studio Artwork Engine
-* Standard audio apps compromise visual quality with downscaled, pixelated covers. SkyWave introduces a native clarity pipeline delivering **lossless 1200×1200 studio-grade cover art**.
-* Dynamic color adaptation extracts complementary ambient palettes from the artwork for an immersive, edge-to-edge dark aesthetic.
+### 📥 2. One-Tap Offline Freedom
+Download any track or playlist in high quality with a single tap. Keep your tunes playing anywhere — on flights, road trips, or in low-signal areas without relying on mobile data.
 
-### 👥 3. SkyWave Blends — Collaborative Chemistry
-* **Two Users, One Unified Mix**: Connect with a friend via an exclusive blend code. Your musical frequencies merge into a single shared space.
-* **Independent Curation**: Add songs on your own terms. Use the multi-select tool inside your library to batch-send your hand-picked favorites straight into the active Blend.
-* **Real-time Synchronized Space**: When either listener adds or removes a song, the playlist updates smoothly in real time without screen flickers or awkward reloads.
+### 👥 3. SkyWave Blends (Connect & Share with Friends)
+* **Instant Chemistry**: Share a simple blend code with a friend to generate a unified, real-time shared playlist.
+* **Effortless Batch Transfer**: Multi-select songs directly from your personal playlists and send them straight into your shared Blend with one tap.
+* **Real-time Sync**: Tracks added or removed update instantly across both devices without screen reloads or lag.
 
-### 🚗 4. Automotive-Grade In-Car Experience (Android Auto)
-* **Distraction-Free Cockpit UI**: Designed to deliver an Apple Music / premium in-car feel with zero lag.
-* **Steering-Wheel Media Command Sync**: Native hardware key binding for responsive next/previous/play/pause control.
-* **Car Dashboard Speed Dial**: 9 instantaneous quick picks accessible on your in-dash screen so your eyes stay on the road.
-* **Voice-Powered Navigation**: Speak to your vehicle to command tracks, artists, or albums hands-free.
-* **Seamless Audio Focus**: Gracefully handles incoming phone calls, vehicle chime interruptions, and GPS navigation voiceovers.
+### 🚗 4. Seamless In-Car Cockpit (Android Auto)
+* **Road-Ready Simplicity**: A clean, distraction-free automotive dashboard built from the ground up for driving safety.
+* **Full Steering Wheel Integration**: Hardware next/previous and play/pause buttons work seamlessly.
+* **In-Car Speed Dial & Voice Search**: Jump into your 9 favorite picks directly from the dashboard screen or speak your search hands-free.
+* **Intelligent Audio Focus**: Seamlessly duck/pause during GPS instructions and phone calls, then resume right where you left off.
 
-### 🎯 5. 3×3 Home Speed Dial
-* Instant muscle-memory music launching right from the home screen. A dynamic 9-tile grid maps to your frequent rotations, mood shifts, and daily listening habits.
+### 🎨 5. Crystal-Clear 1200×1200 Studio Covers
+* Say goodbye to blurry, low-resolution artwork. SkyWave features an internal clarity engine that fetches **lossless 1200×1200 studio covers** paired with adaptive ambient lighting that matches the vibe of whatever's playing.
+
+### ⚡ 6. Autonomous Follow-Up Flow
+* Hit play on any track, lock your phone, and put it on the table. SkyWave intuitively matches the genre, energy, and vibe of the song to queue up the next tracks naturally.
+
+### 🎯 7. Instant 3×3 Speed Dial
+* A dynamic 9-track launcher on your home screen mapped to your recent rotations and muscle memory. One touch and you’re listening.
 
 ---
 
-## 🛠️ Architecture & Under The Hood
+## 🧪 Current Status: Private Beta & Testing
 
-SkyWave is developed using the latest modern Android development (MAD) guidelines:
-
-```
-┌────────────────────────────────────────────────────────┐
-│                      SkyWave UI                        │
-│   Jetpack Compose • Material 3 • Palette API • Coil    │
-├────────────────────────────────────────────────────────┤
-│                 Domain & Use Cases                     │
-│    Clean Architecture • Unidirectional Data Flow       │
-├────────────────────────────────────────────────────────┤
-│                 Audio Orchestrator                     │
-│   Media3 MediaLibraryService • ForwardingPlayer        │
-│          ExoPlayer Core • System Audio Focus           │
-├────────────────────────────────────────────────────────┤
-│                 Persistence & Cache                    │
-│      Room DB • Encrypted DataStore • Memory Caches     │
-└────────────────────────────────────────────────────────┘
-```
-
-* **Modern Stack**: 100% Kotlin with Declarative Jetpack Compose.
-* **Reliable Background Execution**: Foreground `MediaLibraryService` with battery-friendly background lifecycle management.
-* **Zero ANR Design**: Thread-confined ExoPlayer control, non-blocking coroutines, and structured task cancellation.
-* **Strict Privacy First**: Local metadata persistence with isolated, secure syncing.
+> [!NOTE]
+> **SkyWave is currently in an active, private beta testing phase.**  
+> It is not publicly released yet, making this an exclusive opportunity to test the waters early and help shape the final experience.
 
 ---
 
-## 🔒 How to Get SkyWave
+## 🚀 How to Get the Current Beta & Share Your Review
 
-> [!IMPORTANT]
-> **SkyWave is currently distributed exclusively through a Private Access Program.**
+Want to test-drive SkyWave on your phone or in your car?
 
-The public distribution build is not hosted openly to preserve service performance and curated invite rollouts.
+### 1. Connect With the Admin
+Reach out to the **Project Admin** to request the latest verified testing build (`.apk`).
 
-### Ready to elevate your sound experience?
-To obtain the latest verified build (`.apk`) and generate your access key:
+### 2. Install & Experience the Flow
+Get set up in seconds. Try the ad-free playback, test out offline downloads, sync a Blend with a friend, or hook it up to your vehicle display.
 
-📩 **Contact the Project Admin directly** to request early access onboarding.
+### 3. Tell Us What You Think!
+Your raw, honest feedback is the driving engine behind SkyWave.
+* What feature did you love most?
+* How does the in-car experience feel?
+* What should we build next?
+
+Connect with the Admin, test the latest build, and drop your honest review to help refine the ultimate music experience!
 
 ---
 
-## 🎮 Sneak Peek
+## 🛠️ Built with Modern Engineering
 
-| 🎧 Full Player Experience | 👥 Social Blends | 🚗 In-Car Cockpit |
-| :---: | :---: | :---: |
-| Dynamic ambient canvas & studio cover clarity | Collaborative realtime taste mix | Complete vehicle dashboard integration |
+* **100% Kotlin & Jetpack Compose** for ultra-responsive, 120Hz fluid UI.
+* **Android Media3 & ExoPlayer Engine** for rock-solid background playback and seamless audio focus.
+* **Zero-ANR Design** with clean asynchronous Kotlin Coroutines and Flow pipelines.
+* **Local-First Architecture** ensuring rapid response times and zero bloat.
 
 ---
 
 <div align="center">
 
-Crafted with passion for sound perfection.  
-**SkyWave © 2026**
+Ready for a music player that actually respects your listening?  
+**Connect with the Admin, grab the test build, and give it a shot today.** 🎧
+
+<br/>
+
+*SkyWave © 2026 — Crafting the Future of Pure Sound.*
 
 </div>
-
