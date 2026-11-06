@@ -82,31 +82,9 @@ Download any track or playlist in high quality with a single tap. Keep your tune
 
 ---
 
-## 🧪 Current Status: Private Beta & Testing
+## 🚀 Releases & Access
 
-> [!NOTE]
-> **SkyWave is currently in an active, private beta testing phase.**  
-> It is not publicly released yet, making this an exclusive opportunity to test the waters early and help shape the final experience.
-
----
-
-## 🚀 How to Get the Current Beta & Share Your Review
-
-Want to test-drive SkyWave on your phone or in your car?
-
-### 1. Connect With the Admin
-Reach out to the **Project Admin** to request the latest verified testing build (`.apk`).
-
-### 2. Install & Experience the Flow
-Get set up in seconds. Try the ad-free playback, test out offline downloads, sync a Blend with a friend, or hook it up to your vehicle display.
-
-### 3. Tell Us What You Think!
-Your raw, honest feedback is the driving engine behind SkyWave.
-* What feature did you love most?
-* How does the in-car experience feel?
-* What should we build next?
-
-Connect with the Admin, test the latest build, and drop your honest review to help refine the ultimate music experience!
+SkyWave is currently in active beta testing. Check the **[Releases](../../releases)** tab for milestone updates and instructions on how to participate in the private testing program.
 
 ---
 
@@ -122,7 +100,7 @@ Connect with the Admin, test the latest build, and drop your honest review to he
 <div align="center">
 
 Ready for a music player that actually respects your listening?  
-**Connect with the Admin, grab the test build, and give it a shot today.** 🎧
+**Experience pure, uninterrupted sound.** 🎧
 
 <br/>
 
